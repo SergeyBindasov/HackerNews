@@ -7,7 +7,6 @@
 * URLSession
 * Codable
 * WebKit
-* RealmSwift
 
 ### Скриншоты
 <img src="https://github.com/SergeyBindasov/HackerNews/blob/main/ScreenShot1.png" width="200"> <img src="https://github.com/SergeyBindasov/HackerNews/blob/main/ScreenShot2.png" width="200"> <img src="https://github.com/SergeyBindasov/HackerNews/blob/main/ScreenShot3.png" width="200">
